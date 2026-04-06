@@ -105,16 +105,34 @@ gcc school_admin.c -o school_admin
 
 ## 🖥️ Sample Output
 1. Menu
-"C:\Users\KARTHIK\Pictures\Screenshots\Screenshot 2026-04-06 120400.png"
+<img width="692" height="471" alt="Screenshot 2026-04-06 120400" src="https://github.com/user-attachments/assets/961deca8-7fd4-415a-8195-0d00a0c1ab2d" />
+
 2. Add Student  
+<img width="659" height="642" alt="Screenshot 2026-04-06 120522" src="https://github.com/user-attachments/assets/3e0c8094-6ae2-471c-aaee-ec52c97d57d6" />
+
 3. Display All Students  
-4. Search Student  
-5. Update Student  
-6. Delete Student  
-7. Count Students  
-8. Find Topper  
-9. Students Above Marks  
-0. Exit  
+<img width="788" height="1021" alt="Screenshot 2026-04-06 120741" src="https://github.com/user-attachments/assets/f3b69ff5-93bf-47ba-b5ed-a7d69941e918" />
+
+4. Search Student
+  <img width="732" height="739" alt="Screenshot 2026-04-06 120802" src="https://github.com/user-attachments/assets/e06afb31-37ff-47fd-b544-7aa849495c04" />
+
+5. Update Student
+    <img width="767" height="653" alt="Screenshot 2026-04-06 120830" src="https://github.com/user-attachments/assets/b0a3c41c-9088-4fee-879e-bd54772762c2" />
+
+6. Delete Student
+  <img width="816" height="520" alt="Screenshot 2026-04-06 120855" src="https://github.com/user-attachments/assets/b9a2e9bc-e778-4592-8de4-58b8086ac36c" />
+
+7. Count Students
+  <img width="746" height="506" alt="Screenshot 2026-04-06 120907" src="https://github.com/user-attachments/assets/5d71f922-f66f-49f9-a438-e917b6ae83d4" />
+
+8. Find Topper
+ <img width="950" height="787" alt="Screenshot 2026-04-06 120928" src="https://github.com/user-attachments/assets/4f378314-2dae-4acb-8ca5-9f4187a68fbe" />
+
+9. Students Above Marks
+<img width="830" height="807" alt="Screenshot 2026-04-06 120948" src="https://github.com/user-attachments/assets/6e5e4f8c-2a29-4d13-ae23-bfb7dcc26c9a" />
+
+0. Exit
+<img width="715" height="541" alt="Screenshot 2026-04-06 121000" src="https://github.com/user-attachments/assets/a916720d-93cd-4cea-b60a-02efe74706e9" />
 
 
 
