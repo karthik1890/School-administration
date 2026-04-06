@@ -104,6 +104,17 @@ gcc school_admin.c -o school_admin
 ---
 
 ## 🖥️ Sample Output
+1. Menu
+"C:\Users\KARTHIK\Pictures\Screenshots\Screenshot 2026-04-06 120400.png"
+2. Add Student  
+3. Display All Students  
+4. Search Student  
+5. Update Student  
+6. Delete Student  
+7. Count Students  
+8. Find Topper  
+9. Students Above Marks  
+0. Exit  
 
 
 
