@@ -43,7 +43,7 @@ To design and implement a system that efficiently manages student records, allow
 ---
 
 ## ⚙️ Features / Operations
-
+```
 ✔ Add Student
 ✔ Display All Students (Inorder Traversal)
 ✔ Search Student by ID
@@ -54,6 +54,7 @@ To design and implement a system that efficiently manages student records, allow
 ✔ Display Students Above Given Marks 🎯
 ✔ Automatic Grade Calculation (A/B/C/D/F)
 ✔ Memory Management using `malloc()` and `free()`
+```
 
 ---
 
@@ -125,4 +126,5 @@ This project demonstrates:
 
 ---
 
-⭐ *A complete mini-project suitable for academic submission and viva.*
+## 📖 Project Summary
+⭐ A simple and efficient system to manage student records using BST with fast operations, clear structure, and proper memory handling.
