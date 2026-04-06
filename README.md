@@ -114,10 +114,10 @@ gcc school_admin.c -o school_admin
 <img width="788" height="1021" alt="Screenshot 2026-04-06 120741" src="https://github.com/user-attachments/assets/f3b69ff5-93bf-47ba-b5ed-a7d69941e918" />
 
 4. Search Student
-  <img width="732" height="739" alt="Screenshot 2026-04-06 120802" src="https://github.com/user-attachments/assets/e06afb31-37ff-47fd-b544-7aa849495c04" />
+ <img width="732" height="739" alt="Screenshot 2026-04-06 120802" src="https://github.com/user-attachments/assets/e06afb31-37ff-47fd-b544-7aa849495c04" />
 
 5. Update Student
-    <img width="767" height="653" alt="Screenshot 2026-04-06 120830" src="https://github.com/user-attachments/assets/b0a3c41c-9088-4fee-879e-bd54772762c2" />
+ <img width="767" height="653" alt="Screenshot 2026-04-06 120830" src="https://github.com/user-attachments/assets/b0a3c41c-9088-4fee-879e-bd54772762c2" />
 
 6. Delete Student
   <img width="816" height="520" alt="Screenshot 2026-04-06 120855" src="https://github.com/user-attachments/assets/b9a2e9bc-e778-4592-8de4-58b8086ac36c" />
